@@ -1,0 +1,6 @@
+{
+  "name": "INR Expense Tracker",
+  "description": "An elegant iPhone-inspired expense tracker in INR (₹) featuring income, rent, groceries, electricity bill management, and smart analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
